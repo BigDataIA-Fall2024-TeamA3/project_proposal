@@ -4,7 +4,7 @@
 The primary goal of this project is to develop a prototype of a Restaurant Business Assistant Application that assists users in establishing a restaurant in Massachusetts.
 
 ## Documentation
-[![new codelabs](https://img.shields.io/badge/codelabs-4285F4?style=for-the-badge&logo=codelabs&logoColor=white)](https://codelabs-preview.appspot.com/?file_id=1FLUuMr9smuyQjrytMV4aUnmVL7eNSj_KHrBFZqfFc3o#0)
+Updated Proposal: [![new codelabs](https://img.shields.io/badge/codelabs-4285F4?style=for-the-badge&logo=codelabs&logoColor=white)](https://codelabs-preview.appspot.com/?file_id=1FLUuMr9smuyQjrytMV4aUnmVL7eNSj_KHrBFZqfFc3o#0)
 
 [![codelabs](https://img.shields.io/badge/codelabs-4285F4?style=for-the-badge&logo=codelabs&logoColor=white)](https://codelabs-preview.appspot.com/?file_id=1UUMkOvdL8ZCbUfgkHrBTGKRANiFV3z_W3B7TAdqP8Rs#0)
 
